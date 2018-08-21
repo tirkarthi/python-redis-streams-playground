@@ -1,0 +1,2 @@
+git+git://github.com/aio-libs/aioredis.git@ea948d0#egg=aioredis
+uvloop==0.11.2
