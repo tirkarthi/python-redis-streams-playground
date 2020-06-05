@@ -2,6 +2,7 @@ import asyncio
 import time
 import aioredis
 import random
+import uvloop
 
 asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
 
